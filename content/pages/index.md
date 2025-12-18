@@ -36,7 +36,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/nextjs.svg
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
